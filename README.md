@@ -1,4 +1,8 @@
 # larvario_1dam
 Prueba de Git y GitHub para clase 😴
-Colaboradores:
-Pilar Larrosa
+
+Colaboradores: 
+- Amaia Lopez
+- David Luna
+- AyouB
+- Pilar Larrosa
