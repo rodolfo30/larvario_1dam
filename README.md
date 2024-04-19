@@ -6,3 +6,5 @@ Prueba de Git y GitHub para clase 😴
 - David Luna
 - AyouB
 - Rodolfo 😿
+- Pilar Larrosa
+
