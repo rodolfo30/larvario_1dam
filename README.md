@@ -1,8 +1,8 @@
 # larvario_1dam
 Prueba de Git y GitHub para clase 😴
 
-Colaboradores: 
+## Colaboradores: 
 - Amaia Lopez
 - David Luna
 - AyouB
-- Rodolfo Molina
+- Rodolfo 😿
